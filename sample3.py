@@ -1,0 +1,1 @@
+print("sampl3")
